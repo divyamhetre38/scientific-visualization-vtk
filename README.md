@@ -81,6 +81,6 @@ Rendered volumetric data interactively using opacity and color transfer function
 
 ## Author
 
--Divya Mhetre
--B.Tech, Chemical Engineering
--Indian Institute of Technology Kanpur
+Divya Mhetre<br>
+B.Tech, Chemical Engineering<br>
+Indian Institute of Technology Kanpur
